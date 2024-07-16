@@ -1,0 +1,12 @@
+.env
+requirements.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore text file 
+albums-log.txt
