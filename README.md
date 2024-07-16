@@ -34,7 +34,7 @@ python3 -m venv venv
 
 ```
 source venv/bin/activate
-``
+```
 
 5. Install dependencies:
 
@@ -59,4 +59,7 @@ pip list
 - `python3 py-scipts/cat-facts.py`
 
 - `python3 py-scipts/useless-facts.py`
+
+```
+
 ```
