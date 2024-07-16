@@ -6,7 +6,7 @@ This repository contains three Python scripts that fetch data from different API
 2. `cat-facts.py`
 3. `useless-facts.py`
 
-The `albums.py` script fetches data from my own album API hosted on Render and appends the details to a `.txt` file.
+The `albums.py` script fetches data and appends the details to a `.txt` file. The data is being fetched from an API that I created using Express.js and hosted on Render.
 
 ## Setup Instructions
 
