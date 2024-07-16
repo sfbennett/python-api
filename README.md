@@ -17,40 +17,38 @@ git clone https://github.com/your-username/python-api.git
 cd python-api
 ```
 
-2. Create a `requirements.txt` file including:
+2. **Create a `requirements.txt` file including:**
 
 ```
 requests==2.32.3
 python-dotenv
 ```
 
-3. Create a virtual environment:
+3. **Create a virtual environment:**
 
 ```
 python3 -m venv venv
 ```
 
-4. Activate the virtual environment:
+4. **Activate the virtual environment:**
 
 ```
 source venv/bin/activate
 ```
 
-5. Install dependencies:
+5. **Install dependencies:**
 
 ```
 pip install -r requirements.txt
-
 ```
 
-6. Verify packages with:
+6. **Verify packages with:**
 
 ```
 pip list
-
 ```
 
-7. Run the Python script:
+7. **Run the Python script:**
 
 - `python3 py-scipts/albums.py`
 
