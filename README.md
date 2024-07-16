@@ -1,6 +1,6 @@
-# python-api
+# Python API Scripts
 
-This repository contains three Python scripts that fetch data from an API:
+This repository contains three Python scripts that fetch data from different APIs:
 
 1. `albums.py`
 2. `cat-facts.py`
@@ -39,7 +39,6 @@ source venv/bin/activate
 5. Install dependencies:
 
 ```
-
 pip install -r requirements.txt
 
 ```
@@ -47,7 +46,6 @@ pip install -r requirements.txt
 6. Verify packages with:
 
 ```
-
 pip list
 
 ```
@@ -59,7 +57,3 @@ pip list
 - `python3 py-scipts/cat-facts.py`
 
 - `python3 py-scipts/useless-facts.py`
-
-```
-
-```
