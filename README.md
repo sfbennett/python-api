@@ -26,24 +26,37 @@ python-dotenv
 
 3. Create a virtual environment:
 
-`python3 -m venv venv`
+```
+python3 -m venv venv
+```
 
 4. Activate the virtual environment:
 
-`source venv/bin/activate`
+```
+source venv/bin/activate
+``
 
 5. Install dependencies:
 
-`pip install -r requirements.txt`
+```
+
+pip install -r requirements.txt
+
+```
 
 6. Verify packages with:
 
-`pip list`
+```
+
+pip list
+
+```
 
 7. Run the Python script:
 
-`python3 py-scipts/albums.py`
+- `python3 py-scipts/albums.py`
 
-`python3 py-scipts/cat-facts.py`
+- `python3 py-scipts/cat-facts.py`
 
-`python3 py-scipts/useless-facts.py`
+- `python3 py-scipts/useless-facts.py`
+```
